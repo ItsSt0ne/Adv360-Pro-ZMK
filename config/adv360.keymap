@@ -83,7 +83,7 @@
     #define _T_GUI &hm_l LGUI T   // Super on index fingers
     #define _N_GUI &hm_r RGUI N
     #define _D_ALT &hm_l LALT D  // Alt on index down
-    #define _H_CTL &hm_r LALT H  // Use left alt twice b/c right alt is compose key
+    #define _H_ALT &hm_r LALT H  // Use left alt twice b/c right alt is compose key
     #define _R_CTL &hm_l LCTRL R   // Ctrl on ring finger
     #define _I_CTL &hm_r RCTRL I
 
