@@ -78,8 +78,8 @@
     };
 
     // Home row mods
-    #define _S_SFT &hm_l LSHFT S  // Shift on middle fingers
-    #define _E_SFT &hm_r RSHFT E
+    #define _S_SFT &hm_l LSHIFT S  // Shift on middle fingers
+    #define _E_SFT &hm_r RSHIFT E
     #define _T_GUI &hm_l LGUI T   // Super on index fingers
     #define _N_GUI &hm_r RGUI N
     #define _D_ALT &hm_l LALT D  // Alt on index down
